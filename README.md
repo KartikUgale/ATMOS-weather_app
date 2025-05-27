@@ -2,7 +2,7 @@
 
 A sleek desktop weather application built with Java Swing that fetches real-time weather data using the [Open-Meteo API](https://open-meteo.com/). This app provides temperature, weather conditions, humidity, and wind speed based on user-inputted location.
 
-![screenshot](preview.png) <!-- Optional image -->
+![screenshot](https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_earth.png?raw=true)
 
 ---
 
@@ -14,6 +14,8 @@ A sleek desktop weather application built with Java Swing that fetches real-time
 - ❌ Graceful error handling for invalid or unknown locations
 - 🔄 Dynamically updates images based on weather (sun, cloud, rain, snow)
 - 📦 Fully packaged as a runnable JAR
+
+![screenshot](https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_ind.png?raw=true)
 
 ---
 
@@ -53,3 +55,4 @@ A sleek desktop weather application built with Java Swing that fetches real-time
 java -jar WeatherApp.jar            
 ```
 
+![screenshot](https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_NA.png?raw=true)
