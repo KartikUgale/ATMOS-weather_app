@@ -1,0 +1,1 @@
+>## Please create a new .jar file by removing the whole 'out' folder. I removed the 'artifact' folder to reduce the size.
