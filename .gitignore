@@ -9,10 +9,7 @@ out/
 
 # Other common Java ignores
 *.class
-*.log
 *.jar
-*.war
-*.ear
 
 
 ### VS Code ###
