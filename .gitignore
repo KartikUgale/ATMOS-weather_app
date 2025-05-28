@@ -1,26 +1,19 @@
-### IntelliJ IDEA ###
+# IntelliJ files
+.idea/
+*.iml
+
+
+# Build output
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Other common Java ignores
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
 
 ### VS Code ###
 .vscode/
