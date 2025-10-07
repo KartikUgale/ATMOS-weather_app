@@ -3,9 +3,9 @@
 A sleek desktop weather application built with Java Swing that fetches real-time weather data using the [Open-Meteo API](https://open-meteo.com/). This app provides temperature, weather conditions, humidity, and wind speed based on user-inputted location.
 
 <div align="center">
-  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_earth.png?raw=true" width="300">
-  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_ind.png?raw=true" width="300">
-  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_NA.png?raw=true" width="300">
+  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_earth.png?raw=true" width="200">
+  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_ind.png?raw=true" width="200">
+  <img src="https://github.com/KartikUgale/ATMOS-weather_app/blob/main/src/main/resources/SC/sc_NA.png?raw=true" width="200">
 </div>
 
 ---
