@@ -33,8 +33,6 @@ A sleek desktop weather application built with Java Swing that fetches real-time
 
 ## ⚙️ How to Run
 
-### Option 1: Using IntelliJ IDEA
-
 1. Clone the repository
 2. Open the project in IntelliJ IDEA
 3. Run `AppGUI.java` from the IDE
@@ -44,10 +42,6 @@ A sleek desktop weather application built with Java Swing that fetches real-time
    - Include resources like images in the output directory
    - Build the artifact and run the JAR
 
-### Option 2: Run Anywhere via JAR
-
-1. Make sure JDK is installed
-2. Navigate to the JAR file directory
 3. Run using:
 
 ```bash
